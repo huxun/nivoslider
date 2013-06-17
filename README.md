@@ -1,4 +1,4 @@
 nivoslider
 ==========
 
-nivo幻灯片插件
+JQuery幻灯片插件nivo-slider
